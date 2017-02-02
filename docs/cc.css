@@ -1,0 +1,65 @@
+.cc-title
+{
+color: #ffef00;
+text-align: center;
+margin-bottom: 2em;
+/* background-color: #203F92; */
+padding: 1em;
+background-image: url("annot/fondo_logo_ink.svg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+
+h1,h2 {
+  color: rgb(27, 117, 176);
+}
+
+h1 {
+  text-align: center;
+  margin: 1em 0 1em;
+}
+
+h2 {
+margin-top: 1em;
+margin-bottom: 2em;
+}
+
+
+div.main img {
+  max-width: 50%;
+  padding: 1em 1em 1em 1em;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.main figcaption{
+  display: none;
+}
+
+div.main{
+  font-size: large;
+}
+
+div.main table{
+  margin: 4em;
+}
+
+div.main  nav{
+  margin:2em 0 2em;
+}
+
+div.main  iframe{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+div.main {
+  padding-bottom: 10em;
+}
